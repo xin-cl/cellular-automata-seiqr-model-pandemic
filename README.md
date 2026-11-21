@@ -1,0 +1,1 @@
+# nsci0036-cellular-automata-seiqr-model-pandemic
